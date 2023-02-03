@@ -98,9 +98,9 @@ More popular fish is Goldfish
 # 9.What’s the most popular everyday name for a cat?
 
 Cat —\> Pet’s everyday name —\> Facet —\> Text facet —\> sort by count
-—\> Kitty-7(count) !\[Cat popular
+—\> Kitty-7(count) 
 
 # 10.What’s the most popular full name for a dog?
 
 Dog —\> Pet’s Full Name —\> Facet —\> Text Facet —\> Sort by count —\>
-Maggie 7(count) !\[Popular full
+Maggie 7(count) 
